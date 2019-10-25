@@ -15,30 +15,29 @@ def menu():
     print(" ______     ______     __         ______     ______     ______     __   __     ______     ______    ")
     print('/\  ___\   /\___  \   /\ \       /\  ___\   /\  __ \   /\  == \   /\ "-.\ \   /\  ___\   /\  == \   ')
     print("\ \  __\   \/_/  /__  \ \ \____  \ \  __\   \ \  __ \  \ \  __<   \ \ \-.  \  \ \  __\   \ \  __<   ")
-    print(' \ \_____\   /\_____\  \ \_____\  \ \_____\  \ \_\ \_\  \ \_\ \_\  \ \_\\"\_\  \ \_____\  \ \_\ \_\ ')
+    print(' \ \_____\   /\_____\  \ \_____\  \ \_____\  \ \_\ \_\  \ \_\ \_\  \ \_\\\ \_\  \ \_____\  \ \_\ \_\ ')
     print("  \/_____/   \/_____/   \/_____/   \/_____/   \/_/\/_/   \/_/ /_/   \/_/ \/_/   \/_____/   \/_/ /_/ ")
     print("                                                                                                    ")
 
 
 ## SETUP
 # Path to txt file containing words
-path = "E:/Programmation/Python/projets/anglais vocab.txt"
-config_path = "E:/Programmation/Python/projets/config.txt"
-translate_delimiter = ' -> '
-meaning_delimiter = ', '
+path = "E:\Programmation\Python\projets\EzLearner\\anglais vocab.txt"
+config_path = "E:\Programmation\Python\projets\EzLearner\\config.txt"
+translate_delimiter = ' -> ' # Please include spaces if necessary
+meaning_delimiter = ', '     # Please include spaces if necessary
 #save_ path = ""
-pondering_dict = {}
 raw_file = open(path, mode='r', encoding='utf8')
 raw = raw_file.readlines()
 
 def load(): # Loads config file
     dico = {} # Words and their translation are stocked in the dico dictionary
-            # An english word is a key, all translations are a stocked as a list which is accessible through dico[key]-
+              # An english word is a key, all translations are a stocked as a list which is accessible through dico[key]-
     for line in raw:
         if "->" in line:
             tmp = line.split(translate_delimiter)
             if meaning_delimiter in tmp[1]:
-                dico[tmp[0]] = [tmp[1].split(meaning_delimiter), 1]
+                dico[tmp[0]] = [tmp[1].split(meaning_delimiter), 1.0] # 1 Is the default pondering value
             else:
                 dico[tmp[0]] = [[tmp[1]], 1.0]
     for cle in dico:
@@ -53,37 +52,38 @@ def load(): # Loads config file
             for line in config:
                 i+=1
                 if (i>len(dico)):
-                    print(" i = " + i)
                     raise Exception("The config file is too long compared to the vocabulary file.")
                 content = line.split(':')
                 key = content[0]
-                value = content[1].split("\n")[0]
-                pondering_dict[key] = value
+                value = int(content[1].split("\n")[0])
+                dico[key][1] = value
             print("Succesfully loaded config file")
         except Exception as e:
             print(e)
             print("Try deleting config file to reset it, it might have been corrupted.")
             sys.exit()
         finally:
-            print(pondering_dict)
+            config.close()
+
     else: # Else, create a config file.
         print("No config file detected, Creating one at " + config_path)
         try:
             config = open(config_path, mode='w+')
             for key in dico.keys():
                 config.write(key + ":1\n")
-                pondering_dict[key] = 1
+                # the value is set to 1 by default earlier so no need to change it.
         except Exception as e:
             print(e)
             print("An error occured while creating the config file. Please check your word list or the code(lol)")
         finally:
             config.close()
+    return dico
 
-def save(): # Saves config file
+def save(dic): # Saves config file
     try:
-        new_config = open(config_path, mode='w')
-        for key in pondering_dict.keys():
-            new_config.write(key + ":" + pondering_dict[key]+"\n")
+        new_config = open(config_path, 'w')
+        for key in dic.keys():
+            new_config.write(key + ":" + str(dico[key][1]) + "\n")
     except Exception as e:
         print(e)
     finally:
@@ -151,23 +151,27 @@ def play(dic): # Fontion comprenant la boucle principale de jeu
             n += v[1]
         r = int(round(random.random()*n))
         # TODO: Trouver un moyen de changer la proba et de la sauvegarder dans un fichier de sauvegarde cf début du code
+
         print(list(dic.keys())[r])
         trad = input("Traduction: ")
         keep_playing = smartcheck(trad, dic[list(dic.keys())[r]][0])
         if keep_playing:
             print("Bonne réponse!")
+            dic[list(dic.keys())[r]][1] /= 2  # Divise by two the probability when good answer
         else:
             print("Mauvaise réponse!")
+            dic[list(dic.keys())[r]][1] *= 2 # Multiply by two the probability when bad answer
             if len(dic[list(dic.keys())[r]][0]) >= 2:
                 print("Les bonnes réponses possibles étaient: " + str(dic[list(dic.keys())[r]][0]))
             else:
                 print("La bonne réponse était: " + str(dic[list(dic.keys())[r]][0][0]))
 
 ## EXEC
-load()
+dico = load()
+#print(dico)
 menu()
 play(dico)
-save()
+save(dico)
 
 
 

@@ -8,9 +8,10 @@ import sys
 # EzLearner 0.2
 # By Baballevincent
 
+# m = number of words in the vocabulary list.
+
 #TODO:
 # 1) Main menu - Modes: Version / Thème
-# 2) fichier de sauvegarde de pondération des probas.
 
 ## MENU
 def menu():
@@ -49,7 +50,7 @@ def load(): # Loads config file
     if os.path.exists(config_path):  # If there is already a config file
         print("Config file detected, Loading ...")
         try:
-            config = open(config_path, 'r')
+            config = open(config_path, 'r', encoding='utf8')
             i = 0
             for line in config:
                 i+=1
@@ -70,7 +71,7 @@ def load(): # Loads config file
     else: # Else, create a config file.
         print("No config file detected, Creating one at " + config_path)
         try:
-            config = open(config_path, mode='w+')
+            config = open(config_path, mode='w', encoding='utf8')
             for key in dico.keys():
                 config.write(key + ":1\n")
                 # the value is set to 1 by default earlier so no need to change it.
@@ -83,13 +84,28 @@ def load(): # Loads config file
 
 def save(dic): # Saves config file
     try:
-        new_config = open(config_path, 'w')
+        new_config = open(config_path, 'w', encoding='utf8')
         for key in dic.keys():
             new_config.write(key + ":" + str(dico[key][1]) + "\n")
     except Exception as e:
         print(e)
     finally:
         new_config.close()
+
+## TOOLS (MENU)
+def convertToStandard(file_path, new_file_path): # O(m)
+    try:
+        file = open(file_path, 'r')
+        new_file = open(new_file_path, 'w')
+        for line in file:
+            pass
+
+        print("Successfuly created new file at " + new_file_path)
+    except Exception as e:
+        print(e)
+    finally:
+        file.close()
+        new_file.close()
 
 ## USEFUL FUNCTIONS
 def string_compare(input_word, output_word):
@@ -99,6 +115,10 @@ def string_compare(input_word, output_word):
         # Compare each word: measure the length of each word and add the difference to the count
         # Count each different characters for each word between input and output
         # NB: the so called "output" is the reference string
+    if output_word.startswith(" "):
+        output_word = output_word[1:]
+    elif output_word.endswith(" "):
+        output_word = output_word[:-1]
 
     new_input = input_word.split(" ")
     new_output = output_word.split(" ")
@@ -128,10 +148,10 @@ def  smartcheck(input, output_list):
 
     input = input.lower()
     length = len(input)
-    if input.startswith(" "):
+    if input.startswith(" ") or input.startswith("\"") or input.startswith("\'"):
         input = input[1:]
         length -=1
-    elif input.endswith(" "):
+    elif input.endswith(" ") or input.endswith("\"") or input.endswith("\'"):
         input = input[:length-1]
         length -= 1
 
@@ -147,7 +167,7 @@ def  smartcheck(input, output_list):
 
 def play(dic): # Fontion comprenant la boucle principale de jeu
     keys = list(dic.keys())
-    keep_playing = True # m = number of words in the list.
+    keep_playing = True
     while keep_playing:
         n = 0 # Somme totale des pondérations
         for v in dic.values(): # O(m)
@@ -157,7 +177,6 @@ def play(dic): # Fontion comprenant la boucle principale de jeu
         while r>0:
             i+=1
             r-= dico[keys[i]][1]
-        # TODO: Trouver un moyen de changer la proba et de la sauvegarder dans un fichier de sauvegarde cf début du code
 
         print(list(keys)[i])
         trad = input("Traduction: ")

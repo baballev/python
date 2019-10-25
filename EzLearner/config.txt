@@ -1,0 +1,393 @@
+Mild:1
+To bleach:1
+Shingle:1
+Thatch:1
+Noxious:1
+To thresh:1
+An instar:1
+Oxen:1
+A klin:1
+Hoof:1
+Trimming:1
+Sledge:1
+A sled:1
+Coaster:1
+To relinquish:1
+Chin:1
+Fedora:1
+To bestow (smth on sb):1
+Sluggish:1
+Baleful:1
+An omen:1
+Custard:1
+Fancy:1
+Ritzy:1
+Taut:1
+Swanky:1
+Boorish:1
+To frazzle:1
+Callow:1
+To embezzle:1
+Eerily:1
+Embezzlement:1
+Starkly:1
+Peonies:1
+Crimson:1
+A pond:1
+A swamp:1
+Lenient:1
+Bulky:1
+Awe:1
+To bemoan:1
+To yearn (for):1
+To steep:1
+Infatuation:1
+An understudy:1
+The yeast:1
+Brisk:1
+Pastry:1
+To tan:1
+The Steering wheel:1
+To be off:1
+To stride away:1
+To stride:1
+To pamper:1
+Earnest:1
+To blend in:1
+To strew:1
+To squint:1
+Slump:1
+To upend:1
+To rehearse:1
+Twerp:1
+To stoke up:1
+To underpin:1
+Forbearance:1
+Ruthless:1
+Bosom:1
+Muddle:1
+creed:1
+To curtail:1
+To uphold:1
+To withhold:1
+To bare:1
+To prowl:1
+Shoddy:1
+Pumped-up:1
+A boarder:1
+Constituency:1
+To enact:1
+Wholesome:1
+To commit oneself:1
+To lodge a complaint:1
+Untapped:1
+The depletion:1
+The shortage:1
+Sewage [singulier]:1
+The glut:1
+Absetos:1
+The tide:1
+Barren:1
+A sawmill:1
+Bereft (of smth):1
+Grudging:1
+To poach:1
+Bigotry:1
+To cash in:1
+Paramount:1
+The stance:1
+To slant:1
+Haywire:1
+An upheaval:1
+A tenet:1
+To pertain to smth:1
+Tantamount:1
+To hasten:1
+To abet:1
+A hodgepodge:1
+A ditch:1
+Detrimental:1
+To preclude smth:1
+To hinder:1
+A fib:1
+The sleight:1
+To bamboozle:1
+Middlebrow:1
+Decidedly:1
+A garment:1
+Ubiquitous:1
+To whinge:1
+To peddle:1
+To outflank:1
+The stewardship:1
+The overhaul:1
+To behold:1
+To seep:1
+To seep in:1
+To ooze:1
+Queasy:1
+To kowtow to sb:1
+To underscore:1
+A den:1
+A clerk:1
+An outlier:1
+To spurt/spirt:1
+Lewd:1
+To boil down to smth:1
+A keepsake:1
+To swell:1
+To postpone:1
+An offshoot:1
+A whistleblower:1
+To hamstring sb/smth:1
+To forgo smth (forwent, forgone):1
+To jettison:1
+To be prone to + ing:1
+To bedevil sb:1
+To allege:1
+To assert:1
+To huddle:1
+Buoyant:1
+Upbeat:1
+The thaw:1
+A stronghold:1
+The tusks:1
+To set someone back:1
+A horn:1
+A backstop:1
+To deem sb/smth smth:1
+A sizzling:1
+To convey:1
+To supersede:1
+Engregious:1
+To deprive someone from something:1
+Awry:1
+Incitements:1
+To appal:1
+To bail out:1
+Dire:1
+To thwart:1
+To fare:1
+Amid:1
+To engulf:1
+Barring:1
+To foster:1
+To thrive:1
+To delve:1
+To muster:1
+To marshal:1
+To clump togother:1
+Skyrocketting:1
+To soar:1
+To startle:1
+The twinge:1
+Thereby:1
+A Loon:1
+Bereaved:1
+Given that:1
+To bellow:1
+To overstep:1
+The discretion:1
+To bribe:1
+The clout:1
+The wont:1
+Barefoot:1
+To teem:1
+The conceit:1
+To smear:1
+Rugged:1
+The wit:1
+Dismal:1
+To rave:1
+The brow:1
+Eyebrows:1
+To sort (sth) out:1
+To mellow:1
+To soften:1
+To fetch:1
+Sorrowful:1
+To mumble:1
+To stutter:1
+To Stammer:1
+The boot:1
+A/the span:1
+Eager:1
+An orchard:1
+Foul:1
+Thews:1
+A proponent:1
+To dull:1
+A hoop:1
+A quarry:1
+A quarrel:1
+Gaudy:1
+The loan:1
+The moisture:1
+To assess:1
+To instill:1
+Woe:1
+A funnel:1
+Grim:1
+Utter:1
+Whence:1
+To lambast:1
+To whine:1
+To hush:1
+To hush up:1
+Hushed:1
+To choke:1
+Stifling:1
+Deeds:1
+To loom:1
+Gloomy:1
+Sullen:1
+Bleak:1
+Dim:1
+Dull:1
+A venture:1
+The slumber:1
+A yawn:1
+To shiver:1
+An eyesore:1
+Staggering:1
+Shabby:1
+A swirl:1
+Genuine:1
+A clatter:1
+A squawk:1
+To Loathe:1
+Betwixt:1
+To beseech:1
+The pettiness:1
+To hand off:1
+To crave smth:1
+Feebleminded:1
+To gawk:1
+To stare:1
+Cozy:1
+Sorely:1
+A fiend:1
+Lofty:1
+Slack:1
+A Gaze:1
+To team up:1
+To hog:1
+To fathom:1
+Fathoms:1
+A fang:1
+A Showdown:1
+A sigh:1
+A Staple:1
+To slip away:1
+Giddy:1
+To enquire:1
+To jest:1
+To tag along:1
+Blunt:1
+To glom onto:1
+The latter:1
+To shape up:1
+Bitter:1
+To doze off:1
+A wimp:1
+To meddle:1
+The dread:1
+Dreaded:1
+To single out:1
+An excerpt:1
+To drawl:1
+To throw off:1
+Peculiar:1
+Broad:1
+The rust:1
+To snatch:1
+To spew:1
+Contempt(uous):1
+Screenful:1
+Ghast:1
+A burden:1
+To fan:1
+To mingle:1
+A pendant:1
+The glare:1
+To mope:1
+The fealty:1
+Flawless:1
+Spotless:1
+To smirk:1
+A grin:1
+To surmise:1
+To partake:1
+The gist:1
+Sly:1
+To scold:1
+blackmail:1
+Dastardly:1
+The bride:1
+Muddled:1
+To get dumped:1
+Stingy:1
+To have rabies:1
+Gossips:1
+To tease:1
+To scatter:1
+An assumption:1
+A trickster:1
+A conman:1
+A riffraff:1
+A rascal:1
+To fuss:1
+To crawl out of:1
+Clingy:1
+To heed smth:1
+Disclosure:1
+Bashful:1
+Remote:1
+Astray:1
+To bargain:1
+A bargain:1
+A hose:1
+A lighthouse:1
+Cabbage:1
+To bury:1
+The mainstay:1
+Eating patterns:1
+To entail:1
+To go over:1
+To go over smth:1
+A scrounger:1
+A conundrum:1
+A crackdown:1
+To put a strain on smth:1
+Weeping:1
+A (weeping )willow:1
+To devote:1
+Stomped:1
+A glint:1
+To hoot at sb:1
+To pour:1
+To prick:1
+To shrug:1
+To frown:1
+Beneath:1
+Oblivious:1
+Stirring:1
+To stir:1
+A liegeman:1
+Hollow:1
+Sunken:1
+To simmer:1
+A stakeholder:1
+To scrawl:1
+To back out:1
+To linger:1
+To linger over smth:1
+To dwell upon smth:1
+To lay the stress on:1
+To sprawl:1
+To loth to do smth:1
+A bone of contention:1
+To be deadlocked:1
+To tumble:1
+A backlash:1
+Retaliation:1

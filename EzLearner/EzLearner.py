@@ -12,6 +12,8 @@ import sys
 
 #TODO:
 # 1) Main menu - Modes: Version / Thème
+# 2) Save every 5 words
+# 3) gestion des parenthèses / des slashs
 
 ## MENU
 def menu():
@@ -168,7 +170,13 @@ def  smartcheck(input, output_list):
 def play(dic): # Fontion comprenant la boucle principale de jeu
     keys = list(dic.keys())
     keep_playing = True
+    countRow = 0
     while keep_playing:
+        if countRow != 0 and countRow%5 == 0:
+            congrats = ["Great! ", "Nice! ", "Wow! ", "Damn !", "Good job! ", "You are doing great! ", "Keep on playing like that and you will be bilingual"]
+            l = int(round(random.random()*len(congrats)))
+            print(congrats[l] + str(countRow) + " in a row!")
+            save(dico)
         n = 0 # Somme totale des pondérations
         for v in dic.values(): # O(m)
             n += v[1]
@@ -184,6 +192,7 @@ def play(dic): # Fontion comprenant la boucle principale de jeu
         if keep_playing:
             print("Bonne réponse!")
             dic[keys[i]][1] /= 2  # Divise by two the probability when good answer
+            countRow += 1
         else:
             print("Mauvaise réponse!")
             dic[keys[i]][1] *= 2 # Multiply by two the probability when bad answer

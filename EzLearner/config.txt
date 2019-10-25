@@ -4,13 +4,13 @@ Shingle:1.0
 Thatch:1.0
 Noxious:1.0
 To thresh:1.0
-An instar:1.0
-Oxen:1.0
+An instar:2.0
+Oxen:2.0
 A klin:1.0
 Hoof:1.0
-Trimming:1.0
-Sledge:1.0
-A sled:1.0
+Trimming:2.0
+Sledge:2.0
+A sled:0.5
 Coaster:1.0
 To relinquish:1.0
 Chin:1.0
@@ -21,25 +21,25 @@ Baleful:1.0
 An omen:1.0
 Custard:1.0
 Fancy:1.0
-Ritzy:1.0
-Taut:1.0
+Ritzy:0.5
+Taut:2.0
 Swanky:1.0
 Boorish:1.0
 To frazzle:1.0
-Callow:1.0
+Callow:4.0
 To embezzle:1.0
 Eerily:1.0
-Embezzlement:1.0
-Starkly:1.0
+Embezzlement:2.0
+Starkly:4.0
 Peonies:1.0
 Crimson:1.0
 A pond:1.0
-A swamp:1.0
+A swamp:2.0
 Lenient:1.0
-Bulky:1.0
+Bulky:4.0
 Awe:1.0
 To bemoan:1.0
-To yearn (for):1.0
+To yearn (for):0.5
 To steep:1.0
 Infatuation:1.0
 An understudy:1.0
@@ -67,10 +67,10 @@ Ruthless:1.0
 Bosom:1.0
 Muddle:1.0
 creed:1.0
-To curtail:1.0
+To curtail:0.5
 To uphold:1.0
 To withhold:1.0
-To bare:1.0
+To bare:2.0
 To prowl:1.0
 Shoddy:1.0
 Pumped-up:1.0
@@ -81,12 +81,12 @@ Wholesome:1.0
 To commit oneself:1.0
 To lodge a complaint:1.0
 Untapped:1.0
-The depletion:1.0
+The depletion:0.5
 The shortage:1.0
 Sewage [singulier]:1.0
 The glut:1.0
 Absetos:0.5
-The tide:1.0
+The tide:0.25
 Barren:1.0
 A sawmill:1.0
 Bereft (of smth):1.0
@@ -103,14 +103,14 @@ A tenet:1.0
 To pertain to smth:1.0
 Tantamount:1.0
 To hasten:1.0
-To abet:1.0
-A hodgepodge:1.0
+To abet:0.5
+A hodgepodge:0.5
 A ditch:1.0
 Detrimental:1.0
 To preclude smth:1.0
 To hinder:1.0
 A fib:1.0
-The sleight:1.0
+The sleight:2.0
 To bamboozle:1.0
 Middlebrow:1.0
 Decidedly:1.0
@@ -124,25 +124,25 @@ The overhaul:1.0
 To behold:1.0
 To seep:1.0
 To seep in:1.0
-To ooze:1.0
+To ooze:0.5
 Queasy:1.0
 To kowtow to sb:1.0
-To underscore:1.0
+To underscore:0.5
 A den:1.0
 A clerk:1.0
 An outlier:1.0
 To spurt/spirt:1.0
 Lewd:2.0
-To boil down to smth:1.0
+To boil down to smth:0.5
 A keepsake:1.0
 To swell:1.0
 To postpone:1.0
 An offshoot:1.0
-A whistleblower:1.0
+A whistleblower:0.5
 To hamstring sb/smth:1.0
 To forgo smth (forwent, forgone):1.0
 To jettison:1.0
-To be prone to + ing:1.0
+To be prone to + ing:0.5
 To bedevil sb:1.0
 To allege:1.0
 To assert:1.0
@@ -154,15 +154,15 @@ A stronghold:1.0
 The tusks:1.0
 To set someone back:1.0
 A horn:2.0
-A backstop:1.0
+A backstop:0.5
 To deem sb/smth smth:1.0
-A sizzling:1.0
+A sizzling:0.5
 To convey:1.0
 To supersede:1.0
 Engregious:1.0
 To deprive someone from something:1.0
 Awry:1.0
-Incitements:1.0
+Incitements:2.0
 To appal:1.0
 To bail out:1.0
 Dire:1.0
@@ -174,7 +174,7 @@ Barring:1.0
 To foster:1.0
 To thrive:1.0
 To delve:1.0
-To muster:1.0
+To muster:0.5
 To marshal:1.0
 To clump togother:1.0
 Skyrocketting:1.0
@@ -199,17 +199,17 @@ Rugged:1.0
 The wit:1.0
 Dismal:1.0
 To rave:1.0
-The brow:1.0
-Eyebrows:1.0
-To sort (sth) out:2.0
+The brow:0.5
+Eyebrows:2.0
+To sort (sth) out:1.0
 To mellow:1.0
-To soften:1.0
-To fetch:1.0
+To soften:0.25
+To fetch:0.5
 Sorrowful:1.0
 To mumble:1.0
 To stutter:1.0
 To Stammer:1.0
-The boot:1.0
+The boot:2.0
 A/the span:1.0
 Eager:1.0
 An orchard:0.5
@@ -218,35 +218,35 @@ Thews:1.0
 A proponent:1.0
 To dull:1.0
 A hoop:1.0
-A quarry:1.0
-A quarrel:1.0
+A quarry:0.5
+A quarrel:0.5
 Gaudy:1.0
 The loan:1.0
 The moisture:1.0
 To assess:1.0
 To instill:1.0
-Woe:1.0
+Woe:0.5
 A funnel:1.0
 Grim:1.0
 Utter:1.0
 Whence:1.0
 To lambast:1.0
-To whine:1.0
+To whine:2.0
 To hush:1.0
 To hush up:1.0
 Hushed:1.0
 To choke:1.0
 Stifling:1.0
 Deeds:1.0
-To loom:1.0
+To loom:0.5
 Gloomy:1.0
 Sullen:1.0
 Bleak:1.0
 Dim:1.0
 Dull:1.0
-A venture:1.0
+A venture:4.0
 The slumber:0.5
-A yawn:1.0
+A yawn:0.5
 To shiver:1.0
 An eyesore:1.0
 Staggering:1.0
@@ -254,7 +254,7 @@ Shabby:1.0
 A swirl:1.0
 Genuine:1.0
 A clatter:1.0
-A squawk:1.0
+A squawk:2.0
 To Loathe:1.0
 Betwixt:1.0
 To beseech:1.0
@@ -267,15 +267,15 @@ To stare:1.0
 Cozy:1.0
 Sorely:1.0
 A fiend:1.0
-Lofty:1.0
+Lofty:0.5
 Slack:1.0
 A Gaze:1.0
-To team up:1.0
-To hog:2.0
+To team up:0.5
+To hog:4.0
 To fathom:0.5
 Fathoms:2.0
 A fang:1.0
-A Showdown:1.0
+A Showdown:2.0
 A sigh:1.0
 A Staple:1.0
 To slip away:1.0
@@ -287,7 +287,7 @@ Blunt:1.0
 To glom onto:1.0
 The latter:1.0
 To shape up:1.0
-Bitter:1.0
+Bitter:0.5
 To doze off:0.5
 A wimp:1.0
 To meddle:1.0
@@ -304,7 +304,7 @@ To snatch:1.0
 To spew:1.0
 Contempt(uous):1.0
 Screenful:1.0
-Ghast:2.0
+Ghast:1.0
 A burden:1.0
 To fan:1.0
 To mingle:1.0
@@ -323,9 +323,9 @@ Sly:0.5
 To scold:1.0
 blackmail:1.0
 Dastardly:1.0
-The bride:1.0
+The bride:0.5
 Muddled:1.0
-To get dumped:1.0
+To get dumped:0.5
 Stingy:1.0
 To have rabies:0.5
 Gossips:1.0
@@ -335,7 +335,7 @@ An assumption:1.0
 A trickster:1.0
 A conman:1.0
 A riffraff:1.0
-A rascal:1.0
+A rascal:2.0
 To fuss:1.0
 To crawl out of:1.0
 Clingy:1.0
@@ -351,7 +351,7 @@ A lighthouse:1.0
 Cabbage:1.0
 To bury:1.0
 The mainstay:1.0
-Eating patterns:1.0
+Eating patterns:0.5
 To entail:1.0
 To go over:1.0
 To go over smth:1.0
@@ -365,13 +365,13 @@ To devote:1.0
 Stomped:1.0
 A glint:1.0
 To hoot at sb:1.0
-To pour:1.0
+To pour:0.5
 To prick:1.0
 To shrug:1.0
 To frown:1.0
 Beneath:1.0
 Oblivious:1.0
-Stirring:1.0
+Stirring:0.25
 To stir:1.0
 A liegeman:1.0
 Hollow:1.0
@@ -380,11 +380,11 @@ To simmer:1.0
 A stakeholder:1.0
 To scrawl:1.0
 To back out:1.0
-To linger:1.0
+To linger:2.0
 To linger over smth:1.0
 To dwell upon smth:1.0
-To lay the stress on:1.0
-To sprawl:1.0
+To lay the stress on:0.5
+To sprawl:2.0
 To loth to do smth:1.0
 A bone of contention:1.0
 To be deadlocked:1.0

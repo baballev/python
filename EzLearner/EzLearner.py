@@ -12,8 +12,7 @@ import sys
 
 #TODO:
 # 1) Main menu - Modes: Version / Thème
-# 2) Save every 5 words
-# 3) gestion des parenthèses / des slashs
+# 2) gestion des parenthèses / des slashs
 
 ## MENU
 def menu():
@@ -117,10 +116,15 @@ def string_compare(input_word, output_word):
         # Compare each word: measure the length of each word and add the difference to the count
         # Count each different characters for each word between input and output
         # NB: the so called "output" is the reference string
+
     if output_word.startswith(" "):
         output_word = output_word[1:]
-    elif output_word.endswith(" "):
+    if output_word.endswith(" "):
         output_word = output_word[:-1]
+    if "(" in output_word:
+        output_word = output_word[:output_word.index("(")] + output_word[output_word.index(")"):] #TODO: Does not Work !!
+    if "(" in input_word:
+        input_word = input_word[:input_word.index("(")] + input_word[input_word.index(")"):]
 
     new_input = input_word.split(" ")
     new_output = output_word.split(" ")
@@ -200,11 +204,14 @@ def play(dic): # Fontion comprenant la boucle principale de jeu
                 print("Les bonnes réponses possibles étaient: " + str(dic[keys[i]][0]))
             else:
                 print("La bonne réponse était: " + str(dic[keys[i]][0][0]))
+            keep_playing = (input("Keep playing? (y/n): ") == "y")
+
 
     print(n)
 ## EXEC
-dico = load()
+
 menu()
+dico = load()
 play(dico)
 save(dico)
 

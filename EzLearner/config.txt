@@ -1,20 +1,20 @@
 Mild:1.0
-To bleach:1.0
+To bleach:0.5
 Shingle:1.0
 Thatch:1.0
 Noxious:1.0
 To thresh:1.0
-An instar:2.0
+An instar:8.0
 Oxen:2.0
-A klin:1.0
+A klin:2.0
 Hoof:1.0
 Trimming:2.0
 Sledge:2.0
 A sled:0.5
-Coaster:1.0
+Coaster:2.0
 To relinquish:1.0
 Chin:1.0
-Fedora:1.0
+Fedora:2.0
 To bestow (smth on sb):1.0
 Sluggish:1.0
 Baleful:1.0
@@ -23,18 +23,18 @@ Custard:1.0
 Fancy:1.0
 Ritzy:0.5
 Taut:2.0
-Swanky:1.0
-Boorish:1.0
+Swanky:2.0
+Boorish:2.0
 To frazzle:1.0
-Callow:4.0
+Callow:16.0
 To embezzle:1.0
 Eerily:1.0
 Embezzlement:2.0
-Starkly:4.0
+Starkly:8.0
 Peonies:1.0
 Crimson:1.0
 A pond:1.0
-A swamp:2.0
+A swamp:1.0
 Lenient:1.0
 Bulky:4.0
 Awe:1.0
@@ -43,17 +43,17 @@ To yearn (for):0.5
 To steep:1.0
 Infatuation:1.0
 An understudy:1.0
-The yeast:1.0
+The yeast:2.0
 Brisk:1.0
 Pastry:1.0
 To tan:1.0
 The Steering wheel:1.0
 To be off:1.0
 To stride away:1.0
-To stride:1.0
+To stride:2.0
 To pamper:1.0
 Earnest:1.0
-To blend in:1.0
+To blend in:2.0
 To strew:1.0
 To squint:1.0
 Slump:1.0
@@ -63,12 +63,12 @@ Twerp:1.0
 To stoke up:1.0
 To underpin:1.0
 Forbearance:1.0
-Ruthless:1.0
+Ruthless:2.0
 Bosom:1.0
 Muddle:1.0
 creed:1.0
 To curtail:0.5
-To uphold:1.0
+To uphold:2.0
 To withhold:1.0
 To bare:2.0
 To prowl:1.0
@@ -96,15 +96,15 @@ Bigotry:1.0
 To cash in:1.0
 Paramount:1.0
 The stance:1.0
-To slant:1.0
+To slant:0.5
 Haywire:1.0
-An upheaval:1.0
+An upheaval:2.0
 A tenet:1.0
 To pertain to smth:1.0
 Tantamount:1.0
 To hasten:1.0
 To abet:0.5
-A hodgepodge:0.5
+A hodgepodge:0.25
 A ditch:1.0
 Detrimental:1.0
 To preclude smth:1.0
@@ -112,7 +112,7 @@ To hinder:1.0
 A fib:1.0
 The sleight:2.0
 To bamboozle:1.0
-Middlebrow:1.0
+Middlebrow:0.5
 Decidedly:1.0
 A garment:1.0
 Ubiquitous:1.0
@@ -120,7 +120,7 @@ To whinge:1.0
 To peddle:0.5
 To outflank:1.0
 The stewardship:1.0
-The overhaul:1.0
+The overhaul:0.5
 To behold:1.0
 To seep:1.0
 To seep in:1.0
@@ -129,7 +129,7 @@ Queasy:1.0
 To kowtow to sb:1.0
 To underscore:0.5
 A den:1.0
-A clerk:1.0
+A clerk:0.5
 An outlier:1.0
 To spurt/spirt:1.0
 Lewd:2.0
@@ -154,15 +154,15 @@ A stronghold:1.0
 The tusks:1.0
 To set someone back:1.0
 A horn:2.0
-A backstop:0.5
-To deem sb/smth smth:1.0
+A backstop:0.25
+To deem sb/smth smth:2.0
 A sizzling:0.5
 To convey:1.0
 To supersede:1.0
 Engregious:1.0
 To deprive someone from something:1.0
 Awry:1.0
-Incitements:2.0
+Incitements:1.0
 To appal:1.0
 To bail out:1.0
 Dire:1.0
@@ -187,7 +187,7 @@ Bereaved:1.0
 Given that:1.0
 To bellow:1.0
 To overstep:1.0
-The discretion:1.0
+The discretion:0.5
 To bribe:1.0
 The clout:1.0
 The wont:1.0
@@ -196,11 +196,11 @@ To teem:1.0
 The conceit:1.0
 To smear:1.0
 Rugged:1.0
-The wit:1.0
-Dismal:1.0
+The wit:0.5
+Dismal:0.25
 To rave:1.0
 The brow:0.5
-Eyebrows:2.0
+Eyebrows:4.0
 To sort (sth) out:1.0
 To mellow:1.0
 To soften:0.25
@@ -225,7 +225,7 @@ The loan:1.0
 The moisture:1.0
 To assess:1.0
 To instill:1.0
-Woe:0.5
+Woe:0.25
 A funnel:1.0
 Grim:1.0
 Utter:1.0
@@ -233,7 +233,7 @@ Whence:1.0
 To lambast:1.0
 To whine:2.0
 To hush:1.0
-To hush up:1.0
+To hush up:0.5
 Hushed:1.0
 To choke:1.0
 Stifling:1.0
@@ -278,7 +278,7 @@ A fang:1.0
 A Showdown:2.0
 A sigh:1.0
 A Staple:1.0
-To slip away:1.0
+To slip away:0.5
 Giddy:1.0
 To enquire:1.0
 To jest:0.5
@@ -286,35 +286,35 @@ To tag along:1.0
 Blunt:1.0
 To glom onto:1.0
 The latter:1.0
-To shape up:1.0
+To shape up:0.5
 Bitter:0.5
 To doze off:0.5
 A wimp:1.0
-To meddle:1.0
+To meddle:2.0
 The dread:1.0
 Dreaded:1.0
 To single out:1.0
 An excerpt:1.0
 To drawl:1.0
 To throw off:1.0
-Peculiar:1.0
+Peculiar:0.5
 Broad:1.0
 The rust:1.0
 To snatch:1.0
 To spew:1.0
 Contempt(uous):1.0
-Screenful:1.0
+Screenful:0.5
 Ghast:1.0
 A burden:1.0
 To fan:1.0
 To mingle:1.0
 A pendant:1.0
-The glare:1.0
+The glare:2.0
 To mope:1.0
 The fealty:1.0
 Flawless:1.0
 Spotless:1.0
-To smirk:1.0
+To smirk:0.5
 A grin:1.0
 To surmise:1.0
 To partake:1.0
@@ -322,9 +322,9 @@ The gist:1.0
 Sly:0.5
 To scold:1.0
 blackmail:1.0
-Dastardly:1.0
+Dastardly:2.0
 The bride:0.5
-Muddled:1.0
+Muddled:2.0
 To get dumped:0.5
 Stingy:1.0
 To have rabies:0.5
@@ -350,20 +350,20 @@ A hose:1.0
 A lighthouse:1.0
 Cabbage:1.0
 To bury:1.0
-The mainstay:1.0
+The mainstay:2.0
 Eating patterns:0.5
 To entail:1.0
 To go over:1.0
-To go over smth:1.0
-A scrounger:1.0
-A conundrum:1.0
+To go over smth:2.0
+A scrounger:2.0
+A conundrum:0.5
 A crackdown:1.0
 To put a strain on smth:1.0
 Weeping:1.0
 A (weeping )willow:1.0
 To devote:1.0
 Stomped:1.0
-A glint:1.0
+A glint:0.5
 To hoot at sb:1.0
 To pour:0.5
 To prick:1.0

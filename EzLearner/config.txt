@@ -169,7 +169,7 @@ Dire:1.0
 To thwart:1.0
 To fare:1.0
 Amid:1.0
-To engulf:1.0
+To engulf:2.0
 Barring:1.0
 To foster:1.0
 To thrive:1.0
@@ -311,7 +311,7 @@ To mingle:1.0
 A pendant:1.0
 The glare:1.0
 To mope:1.0
-The fealty:2.0
+The fealty:1.0
 Flawless:1.0
 Spotless:1.0
 To smirk:1.0

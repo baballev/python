@@ -3,6 +3,8 @@ import os
 import random
 import sys
 
+# NB: Working with dictionaries was a big mistake x) [...]. If you read this please don't judge me, it was done for personal use only and I just wanted it to work.
+
 # EzLearner 0.2
 # By Baballevincent
 
@@ -18,7 +20,7 @@ def menu():
     print(' \ \_____\   /\_____\  \ \_____\  \ \_____\  \ \_\ \_\  \ \_\ \_\  \ \_\\\ \_\  \ \_____\  \ \_\ \_\ ')
     print("  \/_____/   \/_____/   \/_____/   \/_____/   \/_/\/_/   \/_/ /_/   \/_/ \/_/   \/_____/   \/_/ /_/ ")
     print("                                                                                                    ")
-
+# Waow, that's some fancy ASCII art
 
 ## SETUP
 # Path to txt file containing words
@@ -55,7 +57,7 @@ def load(): # Loads config file
                     raise Exception("The config file is too long compared to the vocabulary file.")
                 content = line.split(':')
                 key = content[0]
-                value = int(content[1].split("\n")[0])
+                value = float(content[1].split("\n")[0])
                 dico[key][1] = value
             print("Succesfully loaded config file")
         except Exception as e:
@@ -144,31 +146,36 @@ def  smartcheck(input, output_list):
 ## MAIN
 
 def play(dic): # Fontion comprenant la boucle principale de jeu
-    keep_playing = True
+    keys = list(dic.keys())
+    keep_playing = True # m = number of words in the list.
     while keep_playing:
         n = 0 # Somme totale des pondérations
-        for v in dic.values():
+        for v in dic.values(): # O(m)
             n += v[1]
-        r = int(round(random.random()*n))
+        r = random.random()*n  # Pick a number in ]0, n[, with n being the sum of the frequence config value
+        i = -1
+        while r>0:
+            i+=1
+            r-= dico[keys[i]][1]
         # TODO: Trouver un moyen de changer la proba et de la sauvegarder dans un fichier de sauvegarde cf début du code
 
-        print(list(dic.keys())[r])
+        print(list(keys)[i])
         trad = input("Traduction: ")
-        keep_playing = smartcheck(trad, dic[list(dic.keys())[r]][0])
+        keep_playing = smartcheck(trad, dic[keys[i]][0])
         if keep_playing:
             print("Bonne réponse!")
-            dic[list(dic.keys())[r]][1] /= 2  # Divise by two the probability when good answer
+            dic[keys[i]][1] /= 2  # Divise by two the probability when good answer
         else:
             print("Mauvaise réponse!")
-            dic[list(dic.keys())[r]][1] *= 2 # Multiply by two the probability when bad answer
-            if len(dic[list(dic.keys())[r]][0]) >= 2:
-                print("Les bonnes réponses possibles étaient: " + str(dic[list(dic.keys())[r]][0]))
+            dic[keys[i]][1] *= 2 # Multiply by two the probability when bad answer
+            if len(dic[keys[i]][0]) >= 2:
+                print("Les bonnes réponses possibles étaient: " + str(dic[keys[i]][0]))
             else:
-                print("La bonne réponse était: " + str(dic[list(dic.keys())[r]][0][0]))
+                print("La bonne réponse était: " + str(dic[keys[i]][0][0]))
 
+    print(n)
 ## EXEC
 dico = load()
-#print(dico)
 menu()
 play(dico)
 save(dico)

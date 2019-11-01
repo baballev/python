@@ -97,10 +97,19 @@ def save(dic): # Saves config file
 def convertToStandard(file_path, new_file_path): # O(m)
     try:
         file = open(file_path, 'r')
-        new_file = open(new_file_path, 'w')
+        new_file = open(new_file_path, 'w')  # TODO: ça marche pas
         for line in file:
-            pass
-
+            for char in line:
+                if not(char == "(" or char == ")" or char == " " or char == ","):
+                    if not(char.isalpha()):
+                        tmpLine = line.split(char)
+                        if len(tmpLine) >= 2:
+                            for k in range(len(tmpLine)):
+                                line += tmpLine[k]
+                        else:
+                            line = tmpLine[0]
+                newLine = line.lower()
+                new_file.write(newLine + "\n")
         print("Successfuly created new file at " + new_file_path)
     except Exception as e:
         print(e)

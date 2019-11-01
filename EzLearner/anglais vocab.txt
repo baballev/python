@@ -1,397 +1,893 @@
-VOCAB ANGLAIS
+VOCAB ANGLAIS 
+
 -
+
+Henceforth -> désormais, à l’avenir 
+
+Runt -> nabot, avorton, freluquet 
+
+Banter -> badinage, plaisanterie
+
+Admist -> au milieu de, parmi
+
+To embed -> intégrer, enchâsser
+
+Cab -> taxi
+
+To shed light -> éclairer 
+
+Endowment -> donation
+
+Skewness -> asymétrie 
+
+To bear fruit -> porter des fruits 
+
+To ponder -> réfléchir, considérer 
+
+Hindrance -> obstacle 
+
+Enticing -> séduisant, attrayant
+
+Spillovers -> retombées
+
+Lain -> couché, posé, allongé
+
+A layman -> un laïc, un profane 
+
+Reluctant -> réticent
+
+Attrition -> usure
+
+Incumbent -> titulaire
+
+To adduce -> apporter, fournir
+
+Layoff -> licenciement, destitution
+
+To plummet -> dégringoler
+
+Outset -> début, commencement 
+
+Ledger -> registre
+
+Thrift -> épargne 
+
+To impede -> entraver
+
+To bilk -> blouser
+
+Insofar -> dans la mesure où
+
+Portfolio -> portefeuille 
+
+Snuff -> tabac à priser
+
+To nod -> Hocher la tête
+
+Whisker -> moustache
+
+Bristle -> poil
+
+A scavenger -> un charognard 
+
+To lash out -> fouetter
+
+Dismay -> consternation 
+
+A scabbard -> un fourreau 
+
+To mend -> réparer, raccommoder, corriger 
+
+To anneal -> recuire 
+
+Vertices -> sommets
+
+Vertex -> sommet
+
+Alimony -> pension
+
+Albeit -> quoique, bien que 
+
+Hurdle -> obstacle, haie
+
+To hurdle -> franchir 
+
+To befall -> advenir, arriver à, se passer 
+
+Frolicking -> gambader, batifolage
+
+To chuck out -> renvoyer, mettre à la porte
+
+To boast -> se vanter, fanfaronner, se glorifier d’avoir 
+
+To be coralled into -> se réunir pour
+
+To dawdle -> lambiner, flâner, lanterner
+
+Chintzy -> kitsch, vulgaire, voyant, fleuri, radin
+
+To wrangle -> se disputer, se chamailler 
+
 Mild -> doux, léger
+
 To bleach -> blanchir, javelliser, se décolorer 
+
 Shingle -> galet
+
 Thatch -> (toit de) chaume
+
 Noxious -> nuisible 
+
 To thresh -> battre 
+
 An instar -> un stade (étape)
+
 Oxen -> bœuf 
+
 A klin -> un four
+
 Hoof -> sabot
-Trimming -> garniture, la taille, la rognure
+
+Trimming -> garniture, taille, rognure
+
 Sledge -> luge
+
 A sled -> un traîneau 
+
 Coaster -> dessous de verre/bouteille 
+
 To relinquish -> renoncer, abandonner 
+
 Chin -> menton
+
 Fedora -> le feutre 
+
 To bestow (smth on sb) -> décerner (qqch à qqn), conférer, accorder 
+
 Sluggish -> léthargique, paresseux, apathique, mou
+
 Baleful -> funeste, sinistre 
+
 An omen -> un présage, un augure, une auspice
+
 Custard -> crème
+
 Fancy -> sophistiqué, chic, de luxe
+
 Ritzy -> chic
+
 Taut -> tendu, chic
+
 Swanky -> chic 
+
 Boorish -> rustre, grossier 
+
 To frazzle -> crever, éreinter 
+
 Callow -> inexpérimenté, novice 
+
 To embezzle -> détourner 
+
 Eerily -> étrangement 
+
 Embezzlement -> détournement de fonds 
+
 Starkly -> tout à fait 
+
 Peonies -> pivoines 
+
 Crimson -> cramoisi 
+
 A pond -> un étang
+
 A swamp -> un marais 
+
 Lenient -> indulgent, clément, tolérant 
+
 Bulky -> volumineux, corpulent
+
 Awe -> admiration, effroi mêlé de respect
+
 To bemoan -> déplorer 
+
 To yearn (for) -> aspirer (à), languir, s’émouvoir 
+
 To steep -> tremper, macérer, mariner
+
 Infatuation -> engouement
+
 An understudy -> une doublure
+
 The yeast -> La levure 
+
 Brisk -> rapide, brusque, vif, actif 
+
 Pastry -> pâtisserie 
+
 To tan -> bronzer, tanner, brunir
-The Steering wheel -> le volant(voiture)
+
+The Steering wheel -> le volant (voiture)
+
 To be off -> s’en aller, se tirer 
+
 To stride away -> s’éloigner 
+
 To stride -> arpenter, marcher à grands pas 
+
 To pamper -> dorloter, choyer, gâter 
+
 Earnest -> sérieux, sincère, ardent, touchant 
+
 To blend in -> se fondre dans
+
 To strew -> parsemer, répandre, éparpiller
+
 To squint -> loucher, plisser les yeux
+
 Slump -> affaiblissement, marasme, effondrement  
+
 To upend -> mettre debout, renverser 
+
 To rehearse -> répéter (pour une pièce, ...)
+
 Twerp -> andouille, idiot
+
 To stoke up -> attiser
+
 To underpin -> étayer
+
 Forbearance -> abstention, patience, tolérance 
+
 Ruthless -> impitoyable
+
 Bosom -> le(s) sein(s), la poitrine
+
 Muddle -> confusion, désordre, cafouillage
+
 creed -> le credo, les principes 
+
 To curtail -> réduire, raccourcir, écourter 
+
 To uphold -> soutenir, maintenir, défendre 
+
 To withhold -> refuser de donner 
+
 To bare -> dévoiler (=uncover)
+
 To prowl -> rôder
+
 Shoddy -> de mauvaise qualité 
+
 Pumped-up -> gonfler à bloc 
+
 A boarder -> un interne 
+
 Constituency -> circonscription électorale 
+
 To enact -> promulguer 
+
 Wholesome -> sain 
+
 To commit oneself -> s’engager 
+
 To lodge a complaint -> porter plainte 
+
 Untapped -> inexploité
+
 The depletion -> la diminution, l’appauvrissement
+
 The shortage -> la pénurie
+
 Sewage [singulier] -> les eaux usées 
+
 The glut -> la surabondance, l’excès
+
 Absetos -> amiante
+
 The tide -> la marée
+
 Barren -> désertique, aride, stérile
+
 A sawmill -> une scierie
+
 Bereft (of smth) -> perdu, démuni, privé de qqch, dépourvu de qqch
+
 Grudging -> réticent 
+
 To poach -> braconner
+
 Bigotry -> sectarisme, intolérance 
+
 To cash in -> vendre, profiter
+
 Paramount -> premier, primordial, d’importance capitale 
+
 The stance -> la position, le point de vue 
+
 To slant -> pencher, incliner 
+
 Haywire -> détraqué 
+
 An upheaval -> un bouleversement 
+
 A tenet -> un principe, une doctrine 
+
 To pertain to smth -> se rapporter à qqch, concerner qqch, dépendre, se rattacher 
+
 Tantamount -> équivalent 
+
 To hasten -> se dépêcher, se hâter, précipiter 
+
 To abet -> encourager, soutenir, aider
+
 A hodgepodge -> un fatras
+
 A ditch -> un fossé 
+
 Detrimental -> néfaste, nocif
+
 To preclude smth -> empêcher qqchose (même usage que to prevent)
+
 To hinder -> empêcher 
+
 A fib -> un mensonge, un bobard
+
 The sleight -> la dextérité 
+
 To bamboozle -> déboussoler, emberlificoter 
+
 Middlebrow -> sans grandes prétentions (intellectuelles), spectateur, lecteur moyen
+
 Decidedly -> vraiment, résolument, fermement
+
 A garment -> un vêtement 
+
 Ubiquitous -> omniprésent 
+
 To whinge -> râler, se plaindre 
+
 To peddle -> colporter, répandre, propager
+
 To outflank -> déborder, contourner, déjouer les manœuvres 
+
 The stewardship -> l’administration, l’intendance, la direction, la gérance 
+
 The overhaul -> le remaniement, la révision 
+
 To behold -> regarder, contempler 
+
 To seep -> suinter, couler, filtrer
+
 To seep in -> s’infiltrer, s’insinuer dans
+
 To ooze -> suinter, s’infiltrer 
-Queasy -> nauséeux
+
+Queasy -> nauséeux 🤢 
+
 To kowtow to sb -> faire des courbettes devant qqn, se prosterner
-To underscore -> souligner 
+
 A den -> une tanière, un repaire
+
 A clerk -> un employé, un vendeur, un prêtre 
+
 An outlier -> une valeur aberrante
+
 To spurt/spirt -> gicler, jaillir, cracher 
+
 Lewd -> obscène 
+
 To boil down to smth -> se résumer à qqch
+
 A keepsake -> un souvenir
+
 To swell -> enfler, gonfler
+
 To postpone -> remettre à plus tard, reporter
+
 An offshoot -> une ramification, un rejeton
-A whistleblower -> un lanceur d’alerte
+
 To hamstring sb/smth -> paralyser, handicaper qqn/qqch
+
 To forgo smth (forwent, forgone) -> renoncer à qqch, abandonné 
+
 To jettison -> abandonner, se délester de 
+
 To be prone to + ing -> être enclin à 
+
 To bedevil sb -> embrouiller, déranger, tourmenter qqn
-To allege -> prétendre 
-To assert -> affirmer que, déclarer que 
+
+To allege (that) -> prétendre (que)
+
+To assert -> affirmer que, déclarer que, faire valoir
+
 To huddle -> se blottir, se regrouper en petit groupe
+
 Buoyant -> flottable, actif, plein d’entrain, ferme
+
 Upbeat -> optimiste 
+
 The thaw -> le dégel, la détente 
+
 A stronghold -> un bastion
+
 The tusks -> les défenses (d’un animal)
+
 To set someone back -> repousser qqn
+
 A horn -> une corne 
+
 A backstop -> un filet de sécurité, un grillage
+
 To deem sb/smth smth -> juger qqn/qqch qqch, estimer, considérer comme 
+
 A sizzling -> un grésillement
+
 To convey -> transmettre, communiquer, amener, informer
+
 To supersede -> remplacer, prendre la place
+
 Engregious -> énorme
+
 To deprive someone from something -> ôter qqchose a qqn, priver, dépouiller, déposséder 
+
 Awry -> de travers, courbé
+
 Incitements -> la provocation, l’incitation
+
 To appal -> consterner, choquer, épouvanter, scandaliser, horrifier, révolter
+
 To bail out -> renflouer, sauter en parachute, écoper
+
 Dire -> terrible, affreux, sinistre 
+
 To thwart -> contrecarrer, contrarier, frustrer 
+
 To fare -> réussir, voyager 
+
 Amid -> parmi, au milieu de, à la suite de
+
 To engulf -> engloutir, sombrer dans, engouffrer
+
 Barring -> sauf, excepté, à moins que 
+
 To foster -> favoriser, encourager 
+
 To thrive -> prospérer, se développer, réussir 
+
 To delve -> creuser, fouiller dans, étudier un sujet à fond
+
 To muster -> rassembler, regrouper 
+
 To marshal -> rassembler, canaliser
+
 To clump togother -> se regrouper
+
 Skyrocketting -> qui croît exponentiellement 
+
 To soar -> grimper, monter en flèche 
+
 To startle -> surprendre, effaroucher, étonner, faire peur
+
 The twinge -> le pincement
+
 Thereby -> Ainsi
+
 A Loon -> un dingue, Un plongeon
+
 Bereaved -> privé, dépossédé
+
 Given that -> étant donné que 
+
 To bellow -> beugler
+
 To overstep -> dépasser, aller trop loin
+
 The discretion -> le discernement 
+
 To bribe -> soudoyer, offrir des pots de vins 
+
 The clout -> l’influence, le coup, le poids, le tissu/chiffon
+
 The wont -> l’habitude, la coutume 
+
 Barefoot -> pieds nus
+
 To teem -> grouiller, fourmiller
+
 The conceit -> l’arrogance, la vanité
+
 To smear -> barbouiller, salir, étaler 
+
 Rugged -> robuste, solide, rugueux
+
 The wit -> l’esprit
+
 Dismal -> lugubre, triste, sombre
+
 To rave -> délirer, divaguer
+
 The brow -> le front
-Eyebrows -> les sourcils 
-To sort (sth) out -> s’occuper de qqchose
+
+To sort (sth) out -> s’occuper de qqch
+
 To mellow -> s’adoucir 
+
 To soften -> s’adoucir
+
 To fetch -> rapporter, aller chercher
+
 Sorrowful -> malheureux (pour une personne)
+
 To mumble -> marmonner, parler entre ses dents
+
 To stutter -> bégayer
+
 To Stammer -> bafouiller, bégayer
+
 The boot -> le coffre (de la voiture)
+
 A/the span -> une durée, la portée, l’envergure 
+
 Eager -> fervent, ardent, de passioné, avide
+
 An orchard -> un verger
+
 Foul -> infect, ignoble, odieux, pourri, mauvais
+
 Thews -> les muscles
+
 A proponent -> un partisan
+
 To dull -> ternir
+
 A hoop -> un cerceau
+
 A quarry -> une carrière
+
 A quarrel -> une querelle
+
 Gaudy -> voyant, brillant, orné avec mauvais goût 
+
 The loan -> le prêt, l’emprunt 
+
 The moisture -> l’humidité 
+
 To assess -> évaluer
+
 To instill -> insuffler, faire comprendre 
+
 Woe -> malheur 
+
 A funnel -> un entonnoir
+
 Grim -> sombre
+
 Utter -> total, absolu, complet
+
 Whence -> d’où
-To lambast -> descendre en flamme
+
+To lambast -> descendre en flamme 🔥
+
 To whine -> se lamenter, gémir 
+
 To hush -> faire taire 
+
 To hush up -> étouffer
+
 Hushed -> étouffé
+
 To choke -> s’asphyxier 
+
 Stifling -> étouffant, suffocant 
+
 Deeds -> des actes
+
 To loom -> se profiler, menacer, se dessiner
+
 Gloomy -> morne 
+
 Sullen -> morne, triste 
+
 Bleak -> morne, triste, lugubre
+
 Dim -> faible
+
 Dull -> terne, ennuyeux, monotone
-A venture -> une entreprise/un projet
-The slumber -> le sommeil
+
+A venture -> une entreprise, un projet
+
+The slumber -> le sommeil 💤 
+
 A yawn -> un bâillement 
+
 To shiver -> frissonner, trembler, frémir
+
 An eyesore -> une horreur
+
 Staggering -> stupéfiant
+
 Shabby -> minable
+
 A swirl -> un tourbillon
+
 Genuine -> authentique, véritable
+
 A clatter -> un bruit 
+
 A squawk -> un cri
+
 To Loathe -> détester
+
 Betwixt -> entre
+
 To beseech -> supplier, implorer
+
 The pettiness -> la petitesse
+
 To hand off -> remettre
+
 To crave smth -> brûler d’envie de qqchose
+
 Feebleminded -> faible d’esprit 
+
 To gawk -> rester bouche bée
+
 To stare -> fixer, regarder longuement
+
 Cozy -> confortable 
+
 Sorely -> grandement, fortement
+
 A fiend -> un démon
+
 Lofty -> noble 
+
 Slack -> mou 
+
 A Gaze -> un regard
+
 To team up -> faire équipe 
+
 To hog -> s’accaparer 
+
 To fathom -> sonder, comprendre
+
 Fathoms -> brasses (= 1.83m)
+
 A fang -> un croc
+
 A Showdown -> une confrontation, épreuve de force
+
 A sigh -> un soupir 
+
 A Staple -> une agrafe
+
 To slip away -> s’éclipser
+
 Giddy -> étourdi
+
 To enquire -> renseigner, se renseigner, s’enquérir 
+
 To jest -> plaisanter 
+
 To tag along -> marquer
+
 Blunt -> émoussé
+
 To glom onto -> glisser sur 
+
 The latter -> le dernier
+
 To shape up -> façonner
+
 Bitter -> amer 
+
 To doze off -> somnoler
+
 A wimp -> une mauviette
+
 To meddle -> se mêler
+
 The dread -> la crainte
+
 Dreaded -> redouté
+
 To single out -> distinguer
+
 An excerpt -> un extrait
+
 To drawl -> parler d’une voix traînante 
+
 To throw off -> jeter
+
 Peculiar -> particulier
+
 Broad -> vaste
+
 The rust -> la rouille
+
 To snatch -> arracher
-To spew -> vomir
+
+To spew -> vomir 🤮 
+
 Contempt(uous) -> mépris(ant)
+
 Screenful -> criblé
+
 Ghast -> affreux, horrible 
+
 A burden -> un fardeau
+
 To fan -> s’évaporer
+
 To mingle -> se mélanger
+
 A pendant -> un pendentif
+
 The glare -> l’éblouissement
+
 To mope -> broyer du noir, se morfondre
+
 The fealty -> allégeance, fidélité
+
 Flawless -> impeccable
+
 Spotless -> impeccable, très propre
+
 To smirk -> sourire en coin 
+
 A grin -> un sourire
+
 To surmise -> conjecturer 
+
 To partake -> participer
+
 The gist -> l’essentiel
+
 Sly -> sournois
+
 To scold -> gronder 
+
 blackmail -> chantage
+
 Dastardly -> ignoble, odieux
+
 The bride -> la mariée
+
 Muddled -> embrouillé
+
 To get dumped -> se faire larguer
+
 Stingy -> avare
+
 To have rabies -> avoir la rage
+
 Gossips -> ragots, bavardages
+
 To tease -> taquiner
+
 To scatter -> disperser, éparpiller, répandre, disséminer, parsemer, saupoudrer
+
 An assumption -> une supposition
+
 A trickster -> un filou
+
 A conman -> un escroc
+
 A riffraff -> une racaille
+
 A rascal -> un chenapan, une fripouille
+
 To fuss -> s’agiter, faire des histoires
+
 To crawl out of -> se glisser hors de
+
 Clingy -> collant, moulant
+
 To heed smth -> faire attention à qqchose, tenir compte de qqchose
+
 Disclosure -> divulgation
+
 Bashful -> timide, pudique
+
 Remote -> éloigné, isolé, reculé
+
 Astray -> égaré
+
 To bargain -> marchander 
+
 A bargain -> une bonne affaire, une aubaine
+
 A hose -> un tuyau d’arrosage 
+
 A lighthouse -> un phare
+
 Cabbage -> chou
+
 To bury -> enterrer
+
 The mainstay -> pilier, base
+
 Eating patterns -> habitudes alimentaires
+
 To entail -> impliquer, causer, entraîner 
+
 To go over -> être reçu 
+
 To go over smth -> voir, passer en revue, examiner
+
 A scrounger -> un pique-assiette, un parasite, un profiteur 
+
 A conundrum -> un casse-tête, une énigme 
+
 A crackdown -> une mesure répressive, répression 
+
 To put a strain on smth -> peser sur qqch
+
 Weeping -> larmoyant, pluvieux
-A (weeping )willow -> un saule (pleureur)
+
+A (weeping) willow -> un saule (pleureur)
+
 To devote -> consacrer 
+
 Broad -> large, vaste
+
 Stomped -> piétiné
+
 A glint -> une lueur, un reflet
+
 To hoot at sb -> huer qqn 
+
 Staggering -> stupéfiant
+
 To pour -> verser
+
 To prick -> piquer, percer
-To shrug -> hausser les épaules
+
+To shrug -> hausser les épaules 🤷‍♂️ 
+
 To frown -> froncer les sourcils
+
 Beneath -> sous
+
 Oblivious -> inconscient
+
 Stirring -> émouvant, vibrant
+
 To stir -> bouger, mélanger, touiller, remuer
+
 A liegeman -> un vassal (archaïque)
+
 Hollow -> creux, vide, faux, dissimulé
+
 Sunken -> creux
+
 To simmer -> mijoter, bouillonner 
+
 A stakeholder -> un intervenant, un responsable, une partie intéressée 
+
 To scrawl -> gribouiller, griffonner 
+
 To back out -> se retirer, faire machine arrière 
+
 To linger -> s’attarder, traîner, rester 
+
 To linger over smth -> prendre son temps sur qqch
+
 To dwell upon smth -> s’attarder sur qqchose
+
 To lay the stress on -> insister sur, mettre l’accent sur
+
 To sprawl -> s’étaler, s’affaler, être vautré, s’étendre 
+
 To loth to do smth -> répugner à faire qqch
+
 A bone of contention -> un sujet de dispute 
+
 To be deadlocked -> être dans l’impasse 
+
 To tumble -> tomber, valdinguer, chuter, rouler 
+
 A backlash -> réaction violente contre
+
 Retaliation -> riposte, représailles, contre-attaque, vengeance
